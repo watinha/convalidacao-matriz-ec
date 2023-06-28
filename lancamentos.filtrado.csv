@@ -1,0 +1,84 @@
+,nome,ch,opt,r
+0,EC41A - Algoritmos 1,90,False,False
+1,EC41B - Comunicação Acadêmica,30,False,False
+2,EC41C - Eletricidade Básica,60,False,False
+3,EC41D - Introdução a Engenharia de Computação,30,False,False
+4,EC41E - Fundamentos de Matemática,60,False,False
+5,EC41F - Geometria Analitica e Álgebra Linear,90,False,False
+6,EC42A - Algoritmos 2,60,False,False
+7,EC42B - Organização de Computadores,30,False,False
+8,EC42C - Circuitos Digitais,60,False,False
+9,EC42D - Fundamentos de Ética,30,False,True
+10,EC42E - Qualidade de Vida 1,30,False,True
+11,EC42F - Cálculo Diferencial e Integral 1,60,False,False
+12,EC42G - Espanhol Instrumental,30,True,True
+13,EC42H - Libras 1,30,True,True
+14,EC42I - Libras 2,30,True,True
+15,EC42J - Sociedade e Política,30,True,True
+16,EC42K - Tecnologia e Sociedade,30,True,True
+17,EC42L - História da Técnica e da Tecnologia,30,True,True
+18,EC42M - Ciências do Ambiente,30,True,True
+19,EC42N - A Presença Africana no Brasil,30,True,True
+20,EC42O - Economia,30,True,True
+21,EC43A - Estrutura de Dados 1,60,False,False
+22,EC43B - Leitura Instrumental em Língua Inglesa,30,False,True
+23,EC43C - Análise de Circuitos em Corrente Contínua,90,False,False
+24,EC43D - Teoria de Cinemática e Mecânica,60,False,False
+25,EC43E - Laboratório de Cinemática e Mecânica,30,False,False
+26,EC43F - Cálculo Diferencial e Integral 2,60,False,False
+27,EC43G - Probabilidade e Estatística,60,False,False
+28,EC44A - Estrutura de Dados 2,60,False,False
+29,EC44B - Bancos de Dados,60,False,False
+30,EC44C - Eletrônica Básica,60,False,False
+31,EC44D - Teoria de Oscilações e Ondas,30,False,False
+32,EC44E - Laboratório de Oscilações e Ondas,30,False,False
+33,EC44F - Cálculo Diferencial e Integral 3,60,False,False
+34,EC44G - Equações Diferenciais Ordinárias,60,False,False
+35,EC45A - Programação Orientada a Objetos 1,60,False,False
+36,EC45B - Arquitetura de Computadores,60,False,False
+37,EC45C - Sistemas Microcontrolados,60,False,False
+38,EC45D - Teoria de Eletricidade e Magnetismo,60,False,False
+39,EC45E - Laboratório de Eletricidade e Magnetismo,30,False,False
+40,EC45F - Sinais e Sistemas,60,False,False
+41,EC42G - Certificadora da Competência 1,90,False,True
+42,EC46A - Programação Orientada a Objetos 2,60,False,False
+43,EC46B - Sistemas Operacionais,60,False,False
+44,EC46C - Desenvolvimento Ágil,60,False,False
+45,EC46D - Comunicação Organizacional,30,False,True
+46,EC46E - Sistemas de Controle,60,False,False
+47,EC46F - Transmissão de Dados,60,False,False
+48,EC46G - Metodologia de Pesquisa,60,False,False
+49,EC46H - Certificadora da Competência 2,90,False,True
+50,EC46I - Estágio Curricular Supervisionado,360,False,False
+51,EC47A - Inteligência Artificial,60,False,True
+52,EC47B - Redes de Computadores,60,False,True
+53,EC47C - Programação Web Front-End,60,False,True
+54,EC47D - Gerenciamento de Projeto de Software,60,False,True
+55,EC47E - Empreendedorismo,30,False,True
+56,EC47F - Trabalho de Conclusão de Curso 1,30,False,True
+57,EC47G - Certificadora da Competência 3,120,False,True
+58,EC48A - Sistemas Distribuídos,60,False,True
+59,EC48B - Programação Web Back-End,60,False,True
+60,EC48C - Programação para Dispositivos Móveis,60,False,True
+61,EC48D - Sistemas Embarcados,60,False,True
+62,EC48F - Trabalho de Conclusão de Curso 2,30,False,True
+63,EC48G - Atividades Complementares,30,False,False
+64,EC48H - Teste de Software,60,True,True
+65,EC48I - Computação em Nuvem,60,True,True
+66,EC48J - Aprendizado de Máquina,60,True,True
+67,EC48K - Processamento de Imagens,60,True,True
+68,EC48L - Mineração de Dados,60,True,True
+69,EC48M - Engenharia de Requisitos,60,True,True
+70,EC48N - Desenvolvimento de Jogos,60,True,True
+71,EC48O - Realidade Virtual,60,True,True
+72,EC48P - Internet das Coisas,60,True,True
+73,EC48Q - Arquitetura de Software,60,True,True
+74,EC48R - Lógica Reconfigurável,60,True,True
+75,EC48S - Introdução a Projetos de Engenharia,120,True,True
+76,EC49A - Fundamentos de Engenharia de Segurança do Trabalho,30,True,True
+77,EC49B - Expressão Gráfica,30,True,True
+78,"EC49C - Teoria de Termodinâmica, Fluidos e Ondas",60,True,True
+79,"EC49D - Laboratório de Termodinâmica, Fluidos e Ondas",30,True,True
+80,EC49E - Mecânica e Resistência dos Materiais,60,True,True
+81,EC49F - Fenômenos de Transporte,60,True,True
+82,EC49G - Química,30,True,True
